@@ -9,10 +9,10 @@ int main() {
 
     int cantidadR, cantidadM;
 
-    string razonS;
-    string rif;
+    string razonS = " ";
+    string rif = " ";
     int totalCompras = 0;
-    int cantidadCompras;
+    int cantidadCompras = 0;
 
     cout << "Ingrese la razon social del proveedor: ";
     cin >> razonS;
