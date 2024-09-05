@@ -40,8 +40,13 @@ int main() {
   int option;
   do {
     cout << "Que deseas realizar:" << endl;
+<<<<<<< HEAD
     cout << "1. Visualizar portada" << endl;
     cout << "2. " << endl;
+=======
+    cout << "1. Factorizar un numero" << endl;
+    cout << "2. Calcular valor absoluto" << endl;
+>>>>>>> 5d42c9419754d9d795cb2998841e28a6ec9df28e
     cout << "3. Calcular promedio" << endl;
     cout << "4. Salir" << endl;
     cin >> option;
